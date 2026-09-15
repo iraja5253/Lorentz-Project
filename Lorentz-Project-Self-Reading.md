@@ -1,4 +1,4 @@
-![[Pasted image 20260717041418.png|628]]
+	![[Pasted image 20260717041418.png|628]]
 So like what we mean above is:
 $$ \frac{\Delta \dot{x}}{\Delta x} \approx \frac{d \dot{x}}{d x} = \frac{d f(x)}{d x} (\text{which is btw the Jacobian matrix}) \implies \Delta \dot{x} = \frac{d f(x)}{d x} \Delta x \quad \text{ or } \quad \dot{Y} = J Y$$
 Consider $\epsilon$ as a small deviation i.e. $\Delta x = \epsilon$ from the initial position $x_0$ , then:
